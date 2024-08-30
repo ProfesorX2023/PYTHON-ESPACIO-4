@@ -1,0 +1,13 @@
+palabra = "abra cadabra"
+print(palabra[0])
+print(palabra[1])
+print(palabra[2])
+print(palabra[3])
+print(palabra[4])
+print(palabra[5])
+print(palabra[6])
+print(palabra[7])
+print(palabra[8])
+print(palabra[9])
+print(palabra[10])
+print(palabra[11])

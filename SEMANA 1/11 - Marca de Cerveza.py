@@ -1,0 +1,1 @@
+print("Tu marca de cerveza es: "+"\""+input("¿Cuál es tu color favorito? ")+" "+input("Escribe tu cuidad favorita ")+"\"")
